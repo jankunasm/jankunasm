@@ -4,7 +4,7 @@ Hi there 👋, I'm Matas Jankunas
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jankunasm)](https://github.com/jankunasm/github-readme-stats)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankunasm)](https://github.com/jankunasm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankunasm&hide=Jupyter Notebook)](https://github.com/jankunasm/github-readme-stats)
 <!--
 **jankunasm/jankunasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
