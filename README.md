@@ -1,7 +1,7 @@
 Hi there 👋, I'm Matas Jankunas
 <br>
 <br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=jankunasm)](https://github.com/jankunasm/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jankunasm&show_icons=true&theme=tokyonight)](https://github.com/jankunasm/github-readme-stats)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankunasm&hide=Jupyter+Notebook&show_icons=true&theme=tokyonight)](https://github.com/jankunasm/github-readme-stats)
