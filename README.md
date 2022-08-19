@@ -9,11 +9,11 @@ Hi there 👋, I'm Matas Jankunas
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankunasm&hide=Jupyter+Notebook&show_icons=true&theme=merko)](https://github.com/jankunasm/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/jankunasm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankunasm&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/jankunasm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankunasm&hide=Jupyter+Notebook&show_icons=true&theme=merko" />
 </a>
 
 
