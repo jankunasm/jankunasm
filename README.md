@@ -4,7 +4,7 @@ Hi there 👋, I'm Matas Jankunas
 📫 How to reach me: Email - jankuansmatas11@gmail.com // LinkedIn - https://www.linkedin.com/in/matas-jankunas/
 <br>
 <br>
-<div id="header" align="center">
+<div align="center">
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jankunasm&show_icons=true&theme=merko)](https://github.com/jankunasm/github-readme-stats)
 <br>
 <br>
