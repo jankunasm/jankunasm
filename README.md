@@ -17,7 +17,8 @@ Hi there 👋, I'm Matas Jankunas
 <a href="https://github.com/jankunasm/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankunasm&hide=Jupyter+Notebook&show_icons=true&theme=merko" />
 </a>
-
+<br>
+<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
