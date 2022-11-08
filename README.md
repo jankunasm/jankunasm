@@ -4,7 +4,7 @@ Hi there 👋, I'm Matas Jankunas
 📫 How to reach me: Email - jankuansmatas11@gmail.com // LinkedIn - https://www.linkedin.com/in/matas-jankunas/
 <br>
 <br>
-🔭 I’m currently working on The Odin Project
+🔭 I’m currently working on The Odin Project and focused on learning Java.
 <br>
 <br>
 <!--
